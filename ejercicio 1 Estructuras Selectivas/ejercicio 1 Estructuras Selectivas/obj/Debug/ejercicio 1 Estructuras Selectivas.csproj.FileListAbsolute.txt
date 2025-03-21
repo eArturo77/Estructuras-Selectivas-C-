@@ -1,0 +1,14 @@
+C:\Users\Estudiante\Desktop\ejercicio 1 Estructuras Selectivas\ejercicio 1 Estructuras Selectivas\bin\Debug\ejercicio 1 Estructuras Selectivas.exe.config
+C:\Users\Estudiante\Desktop\ejercicio 1 Estructuras Selectivas\ejercicio 1 Estructuras Selectivas\bin\Debug\ejercicio 1 Estructuras Selectivas.exe
+C:\Users\Estudiante\Desktop\ejercicio 1 Estructuras Selectivas\ejercicio 1 Estructuras Selectivas\bin\Debug\ejercicio 1 Estructuras Selectivas.pdb
+C:\Users\Estudiante\Desktop\ejercicio 1 Estructuras Selectivas\ejercicio 1 Estructuras Selectivas\obj\Debug\ejercicio 1 Estructuras Selectivas.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Desktop\ejercicio 1 Estructuras Selectivas\ejercicio 1 Estructuras Selectivas\obj\Debug\ejercicio 1 Estructuras Selectivas.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\ejercicio 1 Estructuras Selectivas\ejercicio 1 Estructuras Selectivas\obj\Debug\ejercicio 1 Estructuras Selectivas.exe
+C:\Users\Estudiante\Desktop\ejercicio 1 Estructuras Selectivas\ejercicio 1 Estructuras Selectivas\obj\Debug\ejercicio 1 Estructuras Selectivas.pdb
+C:\Users\usuario\Desktop\Practica de estructuras selectivas parte II\ejercicio 1 Estructuras Selectivas\ejercicio 1 Estructuras Selectivas\bin\Debug\ejercicio 1 Estructuras Selectivas.exe.config
+C:\Users\usuario\Desktop\Practica de estructuras selectivas parte II\ejercicio 1 Estructuras Selectivas\ejercicio 1 Estructuras Selectivas\bin\Debug\ejercicio 1 Estructuras Selectivas.exe
+C:\Users\usuario\Desktop\Practica de estructuras selectivas parte II\ejercicio 1 Estructuras Selectivas\ejercicio 1 Estructuras Selectivas\bin\Debug\ejercicio 1 Estructuras Selectivas.pdb
+C:\Users\usuario\Desktop\Practica de estructuras selectivas parte II\ejercicio 1 Estructuras Selectivas\ejercicio 1 Estructuras Selectivas\obj\Debug\ejercicio 1 Estructuras Selectivas.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\Practica de estructuras selectivas parte II\ejercicio 1 Estructuras Selectivas\ejercicio 1 Estructuras Selectivas\obj\Debug\ejercicio 1 Estructuras Selectivas.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Practica de estructuras selectivas parte II\ejercicio 1 Estructuras Selectivas\ejercicio 1 Estructuras Selectivas\obj\Debug\ejercicio 1 Estructuras Selectivas.exe
+C:\Users\usuario\Desktop\Practica de estructuras selectivas parte II\ejercicio 1 Estructuras Selectivas\ejercicio 1 Estructuras Selectivas\obj\Debug\ejercicio 1 Estructuras Selectivas.pdb

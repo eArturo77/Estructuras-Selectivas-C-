@@ -1,0 +1,7 @@
+C:\Users\Estudiante\Desktop\ejercicio 2  Estructuras Selectivas\ejercicio 2  Estructuras Selectivas\bin\Debug\ejercicio 2  Estructuras Selectivas.exe.config
+C:\Users\Estudiante\Desktop\ejercicio 2  Estructuras Selectivas\ejercicio 2  Estructuras Selectivas\bin\Debug\ejercicio 2  Estructuras Selectivas.exe
+C:\Users\Estudiante\Desktop\ejercicio 2  Estructuras Selectivas\ejercicio 2  Estructuras Selectivas\bin\Debug\ejercicio 2  Estructuras Selectivas.pdb
+C:\Users\Estudiante\Desktop\ejercicio 2  Estructuras Selectivas\ejercicio 2  Estructuras Selectivas\obj\Debug\ejercicio 2  Estructuras Selectivas.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Desktop\ejercicio 2  Estructuras Selectivas\ejercicio 2  Estructuras Selectivas\obj\Debug\ejercicio 2  Estructuras Selectivas.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\ejercicio 2  Estructuras Selectivas\ejercicio 2  Estructuras Selectivas\obj\Debug\ejercicio 2  Estructuras Selectivas.exe
+C:\Users\Estudiante\Desktop\ejercicio 2  Estructuras Selectivas\ejercicio 2  Estructuras Selectivas\obj\Debug\ejercicio 2  Estructuras Selectivas.pdb

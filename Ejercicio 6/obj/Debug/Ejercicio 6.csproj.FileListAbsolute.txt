@@ -1,0 +1,7 @@
+C:\Users\usuario\Desktop\Ejercicio 6\bin\Debug\Ejercicio 6.exe.config
+C:\Users\usuario\Desktop\Ejercicio 6\bin\Debug\Ejercicio 6.exe
+C:\Users\usuario\Desktop\Ejercicio 6\bin\Debug\Ejercicio 6.pdb
+C:\Users\usuario\Desktop\Ejercicio 6\obj\Debug\Ejercicio 6.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\Ejercicio 6\obj\Debug\Ejercicio 6.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Ejercicio 6\obj\Debug\Ejercicio 6.exe
+C:\Users\usuario\Desktop\Ejercicio 6\obj\Debug\Ejercicio 6.pdb
